@@ -7,5 +7,12 @@ Theory: https://www.youtube.com/watch?v=T6BAwJ0dExo&list=PLi3_pmwZshZZu-2U1II2Vd
 
 If/Else/Elif 
 
+Practical: https://www.youtube.com/playlist?list=PLi3_pmwZshZZZADSS22Ae9Ost41UjhnNF
+
+Theory: https://www.youtube.com/watch?v=nmQaegS1B88&list=PLi3_pmwZshZb91uSNLsvfjljwWL6xtoqS
+
 List/Array
 
+Practical: 
+
+Theory:
