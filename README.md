@@ -15,4 +15,5 @@ List/Array
 
 Practical: https://www.youtube.com/playlist?list=PLi3_pmwZshZZ7HPSPuRziHuvz0FZ21Z1x
 
-Theory:
+Theory: https://www.youtube.com/playlist?list=PLi3_pmwZshZblJ1pym-xqs-bkxCz71Ri1
+
