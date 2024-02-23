@@ -13,6 +13,6 @@ Theory: https://www.youtube.com/watch?v=nmQaegS1B88&list=PLi3_pmwZshZb91uSNLsvfj
 
 List/Array
 
-Practical: 
+Practical: https://www.youtube.com/playlist?list=PLi3_pmwZshZZ7HPSPuRziHuvz0FZ21Z1x
 
 Theory:
